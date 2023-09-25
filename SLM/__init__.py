@@ -6,3 +6,4 @@ from .slm_controller import SLM_API
 
 ## Export masks from the existing repository of functions
 from .Masks.masks import CheckersBoard
+from .Masks.masks import CircleMask
